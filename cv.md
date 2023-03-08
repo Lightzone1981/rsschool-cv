@@ -1,3 +1,4 @@
+![Avatar](./lightzone-avatar.png)
 # Evgeniy Lebedevsky
 
 ---
