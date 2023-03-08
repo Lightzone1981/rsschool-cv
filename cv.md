@@ -1,6 +1,5 @@
 ![Avatar](./lightzone-avatar.png)
 # Evgeniy Lebedevsky
-# Evgeniy Lebedevsky
 #### Minsk, Belarus
 #### phone: +375 29 669 39 69
 #### discord: E. Lebedevski (@Lightzone1981)
@@ -84,7 +83,7 @@ function likes(names) {
 
 * #### Digital Agency web page layout
   Responsive layout, Mobile first (Flexbox and CSS Media queries). HTML 5, SCSS, Swiper, Icomoon.
-  
+
   [Browse code](https://github.com/Lightzone1981/dalio) / [View demo](https://lightzone1981.github.io/dalio/public/)
 
 ## Education
