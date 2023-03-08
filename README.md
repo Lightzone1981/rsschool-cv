@@ -1,1 +1,1 @@
-https://lightzone1981.github.io/rsschool-cv/
+https://lightzone1981.github.io/rsschool-cv/cv
