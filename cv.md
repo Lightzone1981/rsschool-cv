@@ -64,22 +64,27 @@ function likes(names) {
 
 * #### Simple Todo manager
   Javascript, Sass, BEM, adaptive responsive design, WebPack.
+
   [Browse code](https://github.com/Lightzone1981/Todo-manager-JS) / [View demo](https://lightzone1981.github.io/Todo-manager-JS/)
 
 * #### Collect the picture mini game
   Javascript, CSS
+
   [Browse code](https://github.com/Lightzone1981/collect-picture-2D-game) / [View demo](https://lightzone1981.github.io/collect-picture-2D-game/)
   
 * #### CSS Animations
   Vanilla CSS
+
   [Browse code](https://github.com/Lightzone1981/animations-training) / [View demo](https://lightzone1981.github.io/animations-training/)
   
 * #### Carousel-slider-JS
   CSS, Javascript
+
   [Browse code](https://github.com/Lightzone1981/Carousel-slider-JS) / [View demo](https://lightzone1981.github.io/Carousel-slider-JS/)
 
 * #### Digital Agency web page layout
   Responsive layout, Mobile first (Flexbox and CSS Media queries). HTML 5, SCSS, Swiper, Icomoon.
+  
   [Browse code](https://github.com/Lightzone1981/dalio) / [View demo](https://lightzone1981.github.io/dalio/public/)
 
 ## Education
